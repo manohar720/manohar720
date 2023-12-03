@@ -35,8 +35,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar720&layout=compact" width="40%">
 
-# &nbsp; Latest Tweets
-<p>
- <a href="https://twitter.com/rao123dk"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=manohar_777&amp;layout=wide" alt="github-readme-twitter"></a>
 
-</p>
